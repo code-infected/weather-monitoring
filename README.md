@@ -181,6 +181,14 @@ To ensure that the application works as expected, run the unit tests using:
 python -m unittest discover tests
 ```
 
+## Screenshots
+
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
+![Screenshot 3](images/screenshot3.png)
+![Screenshot 4](images/screenshot4.png)
+
+
 
 ## License
 
